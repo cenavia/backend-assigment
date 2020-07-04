@@ -1,4 +1,4 @@
-function err(mensaje, code){
+function err(message, code) {
     let e = new Error(message);
 
     if (code) {

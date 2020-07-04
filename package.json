@@ -1,0 +1,33 @@
+{
+  "name": "backend-assigment",
+  "version": "1.0.0",
+  "description": "Solución Code Challenge sobre un software para automatizar el proceso en la resolución de los problemas o consultas que nuestros usuarios puedan tener en DocRed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cenavia/backend-assigment.git"
+  },
+  "keywords": [
+    "code",
+    "challeng",
+    "automatizacion",
+    "problemas",
+    "soporte",
+    "DocRed"
+  ],
+  "author": "cenaviat@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cenavia/backend-assigment/issues"
+  },
+  "homepage": "https://github.com/cenavia/backend-assigment#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nanoid": "^3.1.10"
+  }
+}
